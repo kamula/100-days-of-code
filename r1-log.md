@@ -7,6 +7,6 @@ The log of my #100DaysOfCode challenge. Started on [December 27, Sunday, 2020].
 ### R1D1 
 Javascript refresher.
 
-link: https://github.com/kamula/shwaz/blob/refresher/app.js
+link: https://github.com/kamula/shwaz.git
 
 ### R1D2
