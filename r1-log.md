@@ -10,3 +10,4 @@ Javascript refresher.
 link: https://github.com/kamula/shwaz.git
 
 ### R1D2
+Began node js course. Node js file system and methods
