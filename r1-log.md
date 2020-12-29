@@ -11,3 +11,6 @@ link: https://github.com/kamula/shwaz.git
 
 ### R1D2
 Began node js course. Node js file system and methods
+
+###R1D3
+Node js event loop and non-blocking code
