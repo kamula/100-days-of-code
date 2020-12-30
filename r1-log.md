@@ -14,3 +14,8 @@ Began node js course. Node js file system and methods
 
 ### R1D3
 Node js event loop and non-blocking code
+
+### R1D4
+Node js errors and debugging 
+
+
