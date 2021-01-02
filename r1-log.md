@@ -25,6 +25,6 @@ Express js intro
 Express js routing  & return templates
 
 ### R1D7
-Vue js intro
+Vue.js intro
 
 
