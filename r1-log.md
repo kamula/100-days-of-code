@@ -21,4 +21,7 @@ Node js errors and debugging
 ### R1D5
 Express js routing
 
+### R1D6
+Express js return templates
+
 
