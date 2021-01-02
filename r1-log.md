@@ -19,9 +19,9 @@ Node js event loop and non-blocking code
 Node js errors and debugging 
 
 ### R1D5
-Express js routing
+Express js intro
 
 ### R1D6
-Express js return templates
+Express js routing  & return templates
 
 
