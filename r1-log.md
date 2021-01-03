@@ -27,4 +27,6 @@ Express js routing  & return templates
 ### R1D7
 Vue.js intro
 
+### R1D8
 
+HTML templating engines
