@@ -29,4 +29,8 @@ Vue.js intro
 
 ### R1D8
 
-HTML templating engines
+HTML templating engines intro
+
+### R1D8
+
+pug templating on shop project
