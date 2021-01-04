@@ -34,3 +34,5 @@ HTML templating engines intro
 ### R1D8
 
 pug templating on shop project
+
+creating pug files and parsing data
