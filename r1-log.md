@@ -36,3 +36,9 @@ HTML templating engines intro
 pug templating on shop project
 
 creating pug files and parsing data
+
+
+### R1D9
+
+product html pug file
+
