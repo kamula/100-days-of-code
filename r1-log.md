@@ -42,3 +42,8 @@ creating pug files and parsing data
 
 product html pug file
 
+
+### R1D9
+
+freecodecamp javascript basics recap.
+
