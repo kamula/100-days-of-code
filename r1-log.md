@@ -45,5 +45,5 @@ product html pug file
 
 ### R1D9
 
-freecodecamp javascript basics recap.
+freecodecamp javascript basics recap
 
