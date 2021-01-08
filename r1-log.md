@@ -47,3 +47,7 @@ product html pug file
 
 freecodecamp javascript basics recap
 
+### R1D9
+
+pug template layout inheritance & freecodecamp javascript basics
+
