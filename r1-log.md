@@ -51,3 +51,8 @@ freecodecamp javascript basics recap
 
 pug template layout inheritance & freecodecamp javascript basics
 
+
+### R1D10
+
+completed freecodecamp javascript basics
+
