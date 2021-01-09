@@ -56,3 +56,6 @@ pug template layout inheritance & freecodecamp javascript basics
 
 completed freecodecamp javascript basics
 
+### R1D11
+freecodecamp Javascript and algorithms:es6
+
