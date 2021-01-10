@@ -61,5 +61,5 @@ freecodecamp Javascript algorithms and data structures:es6
 
 ### R1D12
 completed freecodecamp Javascript algorithms and data structures:es6
-began freecodecamp Javascript Regular expressions
+began freecodecamp Javascript Regular expressions.
 
