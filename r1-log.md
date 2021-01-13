@@ -63,3 +63,12 @@ freecodecamp Javascript algorithms and data structures:es6
 completed freecodecamp Javascript algorithms and data structures:es6
 began freecodecamp Javascript Regular expressions.
 
+
+
+### R1D13
+Javascript regex and pug
+
+
+### R1D14
+express-handlebars refresher and began story books application
+
